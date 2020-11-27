@@ -21,7 +21,7 @@ class App extends React.Component {
         <div className="content">
 
           <div className="header">
-            <div className="hr1">확신의 말!!!!</div>
+            <div className="hr1">확신의 말</div>
             <div className="hr2">2년 뒤 나는 구글 본사에서 <br/>디자이너로 일하고 있을 것이다....😁</div>
           </div>
 
