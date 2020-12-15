@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+Front/.idea/Front.iml
+Front/.idea/inspectionProfiles/Project_Default.xml
+Front/.idea/misc.xml
+Front/.idea/modules.xml
+Front/.idea/vcs.xml
